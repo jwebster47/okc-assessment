@@ -1,4 +1,3 @@
-import argparse
 import pandas as pd
 
 def determine_magnitude(x, y):
