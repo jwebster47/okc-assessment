@@ -16,4 +16,4 @@ if __name__ == '__main__':
     for team in teams:
         for metric in metrics:
             for zone in zones:
-                print(team, zone, metric, main(team, zone, metric))
+                print('Team '+team, zone, metric, main(team, zone, metric))
